@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thewake
+- 👋 Hi, I’m Logan@thewake
 - 👀 I’m interested in Embedded System
 - 🌱 I’m currently learning FreeRTOS
 - 💞️ I’m looking to collaborate on nothing
