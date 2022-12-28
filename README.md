@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Logan@thewake
 - 👀 I’m interested in Embedded System
-- 🌱 I’m currently learning FreeRTOS
+- 🌱 I’m currently learning Linux kernel
 - 💞️ I’m looking to collaborate on nothing
 - 📫 My email is: finallyfeel@gmail.com
 
