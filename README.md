@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Logan@thewake
 - 👀 I’m interested in Embedded System
 - 🌱 I’m currently learning Linux kernel
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on GitHub
 - 📫 My email is: finallyfeel@gmail.com
 
 <!---
